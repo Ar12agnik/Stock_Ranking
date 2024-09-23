@@ -138,4 +138,4 @@ df.sort_values(by=['score'],inplace=True)
 print("Stock Rankings based on calculated scores:")
 for i in df['symbol']:
     print(i)
-#['SBIN','BHARTIARTL','JSWINFRA','IDEA']
+#example: ['SBIN','BHARTIARTL','JSWINFRA','IDEA']
