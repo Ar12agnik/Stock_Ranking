@@ -2,7 +2,6 @@ import warnings
 import yfinance as yf
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import time
 def calculate_metrics(stock_name,body="NSE"):
     if body =='NSE':
